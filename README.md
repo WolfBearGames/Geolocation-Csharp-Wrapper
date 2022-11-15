@@ -1,6 +1,10 @@
 # Geolocation Plugin C# API Wrapper
 
-C# Wrapper Class for easier usage of the Godot Geolocation Plugin for Android () and iOS ()
+C# Wrapper Class for easier usage of the Godot Geolocation Plugin for Android (<https://github.com/WolfBearGames/Godot-GeolocationPlugin-Android>) and iOS (<https://github.com/WolfBearGames/Godot-GeolocationPlugin-iOS>)
+
+## Usage Example (Example App)
+
+<https://github.com/WolfBearGames/GeolocationTestApp>
 
 ## Install Wrapper
 
