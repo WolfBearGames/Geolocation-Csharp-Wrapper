@@ -8,7 +8,7 @@ C# Wrapper Class for easier usage of the Godot Geolocation Plugin for Android (<
 
 ## Install Wrapper
 
-1. Copy `Geolocation.cs` and `ReuasableAwaiter.cs` to your project
+1. Copy `Geolocation.cs` and `ReusableAwaiter.cs` to your project
 2. Add `Geolocation.cs` to Project > AutoLoad as "Geolocation"
 
 ## Initialization
